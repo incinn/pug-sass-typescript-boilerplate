@@ -1,0 +1,37 @@
+{
+  "name": "pug-sass-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "Starting point for a project that runs pug sass and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incinn/pug-sass-typescript-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incinn/pug-sass-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/incinn/pug-sass-typescript-boilerplate#readme",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "dotenv": "^9.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-if": "^3.0.0",
+    "gulp-pug-3": "^1.2.2",
+    "gulp-pug-linter": "^1.5.0",
+    "gulp-rev": "^9.0.0",
+    "gulp-rev-delete-original": "^0.2.3",
+    "gulp-rev-rewrite": "^4.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.0.1",
+    "gulp-typescript": "^6.0.0-alpha.1"
+  }
+}
