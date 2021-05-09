@@ -9,6 +9,7 @@ Repository maintained to speed up starting a new project.
 -   SASS compilation
     -   autoprefixer
 -   Pug compilation
+    -   puglinter
 -   Typescript compilation
     -   minification and mangle features via `terser`
 -   Asset revisioning `rev-manifest.json`
